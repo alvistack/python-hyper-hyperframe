@@ -1,0 +1,5 @@
+python-hyperframe source: file-without-copyright-information
+python-hyperframe source: no-debian-changes
+python-hyperframe source: source-contains-prebuilt-windows-binary
+python-hyperframe source: source-is-missing
+python-hyperframe source: source-package-encodes-python-version
